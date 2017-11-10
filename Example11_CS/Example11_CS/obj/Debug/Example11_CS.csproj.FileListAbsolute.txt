@@ -1,0 +1,11 @@
+E:\HTC\CCIS2645\Examples\VS2012\Example11_CS\Example11_CS\bin\Example11_CS.dll
+E:\HTC\CCIS2645\Examples\VS2012\Example11_CS\Example11_CS\bin\Example11_CS.pdb
+E:\HTC\CCIS2645\Examples\VS2012\Example11_CS\Example11_CS\obj\Debug\Example11_CS.csprojResolveAssemblyReference.cache
+E:\HTC\CCIS2645\Examples\VS2012\Example11_CS\Example11_CS\obj\Debug\Example11_CS.dll
+E:\HTC\CCIS2645\Examples\VS2012\Example11_CS\Example11_CS\obj\Debug\Example11_CS.pdb
+C:\Users\HTCstudent\Downloads\CCIS2645_Example11_CS\Example11_CS\Example11_CS\bin\Example11_CS.dll.config
+C:\Users\HTCstudent\Downloads\CCIS2645_Example11_CS\Example11_CS\Example11_CS\bin\Example11_CS.dll
+C:\Users\HTCstudent\Downloads\CCIS2645_Example11_CS\Example11_CS\Example11_CS\bin\Example11_CS.pdb
+C:\Users\HTCstudent\Downloads\CCIS2645_Example11_CS\Example11_CS\Example11_CS\obj\Debug\Example11_CS.csprojResolveAssemblyReference.cache
+C:\Users\HTCstudent\Downloads\CCIS2645_Example11_CS\Example11_CS\Example11_CS\obj\Debug\Example11_CS.dll
+C:\Users\HTCstudent\Downloads\CCIS2645_Example11_CS\Example11_CS\Example11_CS\obj\Debug\Example11_CS.pdb
